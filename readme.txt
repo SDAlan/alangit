@@ -5,4 +5,4 @@ Git tracks changes of files.
 这是我第一次使用git和github。
 第二次推送
 第三次
-Creating a new branch is quick.
+Creating a new branch is quick AND simple.
